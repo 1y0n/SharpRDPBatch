@@ -2,7 +2,7 @@
 
 在三好师傅 [SharpRDPCheck](https://github.com/3gstudent/SharpRDPCheck) 的基础上加了批量检测，原版权属于三好师傅。
 
-直接下载即可使用。
+[直接下载](https://github.com/1y0n/SharpRDPBatch/releases/download/0.1/SharpRDPCheck.zip)即可使用，下载地址：https://github.com/1y0n/SharpRDPBatch/releases/download/0.1/SharpRDPCheck.zip
 
 Usage:
       SharpRDPCheck.exe <RDP ServerIP> <RDP ServerPort> <mode> <user> <password>
